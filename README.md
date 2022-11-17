@@ -66,7 +66,7 @@ I've produced several [repositories](https://github.com/joannarifkin?tab=reposit
 
 What's life without a little fun?
 
-When I'm not at work, you can find me rock climbing at [Basecamp in Toronto](https://basecampclimbing.ca/), volunteering with [Not Far from the Tree](https://notfarfromthetree.org/), growing fruits and vegetables in my garden, reading sci-fi and fantasy, and chasing my unruly cats off the table. I live in Toronto, and love it!
+When I'm not at work, you can find me rock climbing at [Basecamp in Toronto](https://basecampclimbing.ca/), volunteering with [Not Far from the Tree](https://notfarfromthetree.org/), growing fruits and vegetables in my garden, reading SFF and nonfiction, and chasing my unruly cats off the table. I live in Toronto, and love it!
 
 
 <!--
