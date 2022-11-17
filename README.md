@@ -22,11 +22,11 @@ I've been fortunate to collaborate with many wonderful colleagues, leading to pu
 
 *  Beaudry, F. E. G., *Rifkin, J. L.*, Peake, A. L., Kim, D., Jarvis-Cross, M., Barrett, S. C. H., and S. I. Wright. 2022. Effects of the neo-X chromosome on genomic signatures of hybridization in _Rumex hastatulus_. Molecular Ecology https://doi.org/10.1111/mec.16496
   
-*    Rifkin, J. L., Hnatovska, S., Yuan, M., Sacchi, B. M., Choudhury, B. I., Gong, Y., Rastas, P., Barrett, S. C. H, and S. I. Wright. 2022. Recombination landscape dimorphism and sex chromosome evolution in the dioecious plant _Rumex hastatulus_. Philosophical Transactions of the Royal Society B 377(1850), 20210226. https://doi.org/10.1098/rstb.2021.0226
+*    *Rifkin, J. L.*, Hnatovska, S., Yuan, M., Sacchi, B. M., Choudhury, B. I., Gong, Y., Rastas, P., Barrett, S. C. H, and S. I. Wright. 2022. Recombination landscape dimorphism and sex chromosome evolution in the dioecious plant _Rumex hastatulus_. Philosophical Transactions of the Royal Society B 377(1850), 20210226. https://doi.org/10.1098/rstb.2021.0226
   
 *    Liao, I. T., *Rifkin, J. L.*, Cao, G., and M. D. Rausher. 2021. Modularity and selection of nectar traits in the evolution of the selfing syndrome in _Ipomoea lacunosa_ (Convolvulaceae). New Phytologist 233(3), 1505-1519. https://doi.org/10.1111/nph.17863
   
-*    Rifkin, J. L., G. Cao, and M. D. Rausher. 2021. Genetic architecture of divergence: the selfing syndrome in _Ipomoea lacunosa_. American Journal of Botany 108(10), 2038-2054. https://doi.org/10.1002/ajb2.1749
+*    *Rifkin, J. L.*, G. Cao, and M. D. Rausher. 2021. Genetic architecture of divergence: the selfing syndrome in _Ipomoea lacunosa_. American Journal of Botany 108(10), 2038-2054. https://doi.org/10.1002/ajb2.1749
   
 *    Frazee, L., *Rifkin, J. L.*, Maheepala, D., Grant, A-G., Litt, A., Kalisz, S., Wright, S., and R. Spigler. 2021. New genomic resources and comparative analyses reveal differences in floral gene expression in selfing and outcrossing _Collinsia_ sister species. G3 Genes|Genomes|Genetics 11(8). https://doi.org/10.1093/g3journal/jkab177
   
