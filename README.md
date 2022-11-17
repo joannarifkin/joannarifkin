@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a geneticist and bioinformatician. In my extensive experience with non-model systems, I've had a lot of practice adapting bioinformatic tools to solve problems in creative ways. 
+I'm a geneticist and bioinformatician. In my extensive experience with non-model systems, I've had a lot of practice adapting bioinformatic tools to solve problems in creative ways. Right now, I'm a postdoctoral fellow in the [Baucom Lab at the University of Michigan](https://baucomlab.wordpress.com/), and secondarily affiliated with the [Wright Lab at the University of Toronto](https://wright.eeb.utoronto.ca/). 
 
 Below, you can learn more about the [skills](#skills) this has given me, see the [publications](#publications) that have resulted, find a [résumé](#résumé) or [contact info](#contact-info), scroll through some of my [repositories](#repositories), and even see what I do for [fun](#fun).
 
@@ -56,11 +56,11 @@ A recent résumé
 
 ### Contact info
 
-
+You can find me on [LinkedIn](https://www.linkedin.com/in/joannarifkin/) and [Mastodon](https://ecoevo.social/@joannarifkin), or email me at jlrifkin [at] umich.edu. 
 
 ### Repositories
 
-
+I've produced several [repositories](https://github.com/joannarifkin?tab=repositories) collecting code from papers I've worked on. 
 
 ### Fun
 
