@@ -20,6 +20,8 @@ Outside of technical skills, I'm committed to scientific communication. When wor
 
 I've been fortunate to collaborate with many wonderful colleagues, leading to publications in several high-profile journals. I have shared primary authorship several times, and particularly appreciate the opportunities this afforded for communication and teamwork leading to stronger science. 
 
+*  *Rifkin, J. L.,*\* Ostevik K. L.,\* and M. D. Rausher. 2023. Complex cross incompatibility in morning glories is consistent with a role for mating system in plant speciation. Evolution https://doi.org/10.1093/evolut/qpad086
+
 *  Beaudry, F. E. G., *Rifkin, J. L.*, Peake, A. L., Kim, D., Jarvis-Cross, M., Barrett, S. C. H., and S. I. Wright. 2022. Effects of the neo-X chromosome on genomic signatures of hybridization in _Rumex hastatulus_. Molecular Ecology https://doi.org/10.1111/mec.16496
   
 *    *Rifkin, J. L.*, Hnatovska, S., Yuan, M., Sacchi, B. M., Choudhury, B. I., Gong, Y., Rastas, P., Barrett, S. C. H, and S. I. Wright. 2022. Recombination landscape dimorphism and sex chromosome evolution in the dioecious plant _Rumex hastatulus_. Philosophical Transactions of the Royal Society B 377(1850), 20210226. https://doi.org/10.1098/rstb.2021.0226
